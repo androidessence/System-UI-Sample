@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">System UI Sample</string>
+    <string name="dim_bars">Dim Status Bars</string>
+    <string name="reveal_bars">Reveal Status Bars</string>
+    <string name="hide_status">Hide Status Bar</string>
+    <string name="hide_navigation">Hide Navigation Bar</string>
+</resources>
